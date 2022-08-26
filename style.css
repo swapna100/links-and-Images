@@ -1,0 +1,30 @@
+*{
+    background-color: lightgoldenrodyellow;
+    color: mediumvioletred;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#heading1{
+    color: darkorange;
+}
+img{
+    border-radius: 70px;
+    width : 500px; height : 300px ;
+    margin-left: auto;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 5px;
+    display: block;
+}
+
+div.links a{
+color: lightsalmon;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+display: inline-flex;
+padding:0px 10px 0px 10px;
+margin: 400px 0px 10px 0px;
+border: 0em;
+text-align: left;
+font-weight:bold;
+}
